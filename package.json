@@ -1,0 +1,9 @@
+{
+  "name": "sequelize-bug",
+  "description": "Demonstrates a possible bug in sequelize",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "sequelize": "1.7.0-rc2"
+  }
+}
